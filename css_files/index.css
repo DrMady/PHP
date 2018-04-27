@@ -1,0 +1,25 @@
+html, body
+{
+height: 100%;
+width: 100%;
+margin: auto;
+margin:0;
+padding:0;
+background: url(https://i.ytimg.com/vi/WtXYvTvCS10/maxresdefault.jpg) no-repeat center center fixed; 
+background-size: cover;
+}
+
+
+.book
+{
+margin: 15px 15px 15px 0;	
+border: 1px solid white;
+color: #13e81e;
+font-size: 20px;
+}
+
+.david
+{
+	color: white;
+	text-align:center;
+}
